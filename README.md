@@ -17,9 +17,9 @@ This website is designed to showcase a range of vegetables available at our shop
 
 ## Screenshots
 
-![Homepage](path/to/homepage-screenshot.png)
-![Vegetable Selection](path/to/vegetable-selection-screenshot.png)
-![About Us](path/to/about-us-screenshot.png)
+![Screenshot 2023-12-10 103141](https://github.com/Ahzem/Vegetable_Shop/assets/123859613/d6b0fc46-1fee-4a8f-9cb0-f4d2c9cec54d)
+
+![Screenshot 2023-12-10 103239](https://github.com/Ahzem/Vegetable_Shop/assets/123859613/1ad01a9d-8226-403f-b9fd-ff6b6a66ae82)
 
 ## Technologies Used
 
